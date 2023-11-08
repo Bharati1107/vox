@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382501328239",
+    "project_id": "voxx-e8faf",
+    "storage_bucket": "voxx-e8faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382501328239:android:61cc9c0c548c9f381e049a",
+        "android_client_info": {
+          "package_name": "com.example.vox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1paqIpsnaThnREFNTcDhLFovQLIk6Vwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
